@@ -1,2 +1,4 @@
 name: Melinda Higgins Biostatistician and Chemometrician
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
